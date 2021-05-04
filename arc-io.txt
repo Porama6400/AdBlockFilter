@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Title: Arc.io Blocker
+! Homepage: https://github.com/Porama6400/AdBlockFilte
+
+||arc.io
+||core.arc.io
+||static.arc.io
+||tracker.arc.io
+arc-sw.js|
