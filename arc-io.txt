@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Title: Arc.io Blocker
-! Homepage: https://github.com/Porama6400/AdBlockFilte
+! Title: arc.io blocker
+! Homepage: https://github.com/Porama6400/AdBlockFilter
 
 ||arc.io
 ||core.arc.io
